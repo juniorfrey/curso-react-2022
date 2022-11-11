@@ -31,7 +31,7 @@ const TaskForm = () => {
           }}
           value={title}
           autoFocus
-          className="bg-slate-300 p-3 w-full mb-2 rounded-md"
+          className="bg-slate-300 p-3 w-full mb-2 rounded-md "
         />
         <textarea
           placeholder="Escriba una descripcion"
